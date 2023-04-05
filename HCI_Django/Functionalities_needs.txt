@@ -1,0 +1,26 @@
+Main Functionality :
+
+DONE : 1. View events
+DONE : 2. Each event, on clicked should show event details 
+TODO: 3. Inside the event detail, book tickets : DONE
+TODO: 4. Once booked, send email to user - a booking confirmation
+TODO : 5. Groups (Find people)
+
+Add new events : 
+
+DONE: 1. Fill a form and submit
+
+User login :
+
+TODO : <DONE>
+1. Login/ Sign up
+
+My bookings :
+
+TODO: 1. View history of bookings - <DONE>
+
+Models needed:
+
+DONE: 1. Event 
+DONE: 2. Category
+TODO: 3. User/Account <DONE>
